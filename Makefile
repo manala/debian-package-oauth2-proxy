@@ -8,8 +8,8 @@ COLOR_COMMENT = \033[33m
 
 ## Package
 PACKAGE_NAME       = oauth2-proxy
-PACKAGE_VERSION    = 2.1
-PACKAGE_GO_VERSION = 1.6
+PACKAGE_VERSION    = 2.0.1
+PACKAGE_GO_VERSION = 1.4.2
 PACKAGE_SOURCE     = https://github.com/bitly/oauth2_proxy/releases/download/v${PACKAGE_VERSION}/oauth2_proxy-${PACKAGE_VERSION}.linux-amd64.go${PACKAGE_GO_VERSION}.tar.gz
 
 ## Macros
